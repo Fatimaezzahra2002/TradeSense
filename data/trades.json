@@ -1,0 +1,145 @@
+[
+  {
+    "id": 1,
+    "userId": 2,
+    "challengeId": 1,
+    "symbol": "AAPL",
+    "type": "BUY",
+    "price": 150.25,
+    "quantity": 10,
+    "timestamp": "2026-01-14T17:56:15.841Z",
+    "pnl": 250
+  },
+  {
+    "id": 2,
+    "userId": 1768412890446,
+    "challengeId": null,
+    "symbol": "AAPL",
+    "type": "SELL",
+    "price": 189.45,
+    "quantity": 0.1,
+    "pnl": 0,
+    "timestamp": "2026-01-14T17:57:46.388Z"
+  },
+  {
+    "id": 3,
+    "userId": 1768412890446,
+    "challengeId": null,
+    "symbol": "IAM",
+    "type": "BUY",
+    "price": 92.5,
+    "quantity": 0.1,
+    "pnl": 0,
+    "timestamp": "2026-01-14T17:57:50.040Z"
+  },
+  {
+    "id": 4,
+    "userId": 1768412890446,
+    "challengeId": 9,
+    "symbol": "BTC-USD",
+    "type": "BUY",
+    "price": 65230,
+    "quantity": 0.1,
+    "pnl": 0,
+    "timestamp": "2026-01-14T17:58:05.148Z"
+  },
+  {
+    "id": 5,
+    "userId": 1768412890446,
+    "challengeId": 9,
+    "symbol": "AAPL",
+    "type": "BUY",
+    "price": 189.45,
+    "quantity": 0.1,
+    "pnl": 0,
+    "timestamp": "2026-01-14T17:58:11.961Z"
+  },
+  {
+    "id": 6,
+    "userId": 1768494992276,
+    "challengeId": null,
+    "symbol": "IAM",
+    "type": "BUY",
+    "price": 92.5,
+    "quantity": 0.1,
+    "pnl": 0,
+    "timestamp": "2026-01-15T16:51:14.561Z"
+  },
+  {
+    "id": 7,
+    "userId": 1768494992276,
+    "challengeId": null,
+    "symbol": "ATW",
+    "type": "SELL",
+    "price": 465.2,
+    "quantity": 0.1,
+    "pnl": 0,
+    "timestamp": "2026-01-15T16:51:21.939Z"
+  },
+  {
+    "id": 8,
+    "userId": 1768494992276,
+    "challengeId": null,
+    "symbol": "BTC-USD",
+    "type": "BUY",
+    "price": 65230,
+    "quantity": 0.1,
+    "pnl": 0,
+    "timestamp": "2026-01-15T16:59:34.008Z"
+  },
+  {
+    "id": 9,
+    "userId": 1768494992276,
+    "challengeId": null,
+    "symbol": "BTC-USD",
+    "type": "SELL",
+    "price": 65230,
+    "quantity": 0.1,
+    "pnl": 0,
+    "timestamp": "2026-01-15T17:00:00.488Z"
+  },
+  {
+    "id": 10,
+    "userId": 1768494992276,
+    "challengeId": null,
+    "symbol": "ATW",
+    "type": "BUY",
+    "price": 465.2,
+    "quantity": 0.1,
+    "pnl": 0,
+    "timestamp": "2026-01-15T17:01:05.201Z"
+  },
+  {
+    "id": 11,
+    "userId": 1768494992276,
+    "challengeId": null,
+    "symbol": "ATW",
+    "type": "BUY",
+    "price": 465.2,
+    "quantity": 0.1,
+    "pnl": 0,
+    "timestamp": "2026-01-15T17:04:46.012Z"
+  },
+  {
+    "id": 12,
+    "userId": 1768494992276,
+    "challengeId": null,
+    "symbol": "ATW",
+    "type": "BUY",
+    "price": 465.2,
+    "quantity": 0.1,
+    "pnl": 0,
+    "timestamp": "2026-01-15T17:07:13.245Z"
+  },
+  {
+    "id": 13,
+    "user_id": 1768494992276,
+    "challenge_id": 5,
+    "symbol": "BTC-USD",
+    "type": "BUY",
+    "price": 65230,
+    "quantity": 0.1,
+    "pnl": 0,
+    "timestamp": "2026-01-15T18:31:16.396Z"
+  }
+]
